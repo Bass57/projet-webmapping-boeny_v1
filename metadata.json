@@ -1,0 +1,6 @@
+{
+  "name": "Observatoire Environnemental du Boeny",
+  "description": "Portail SIG et webmapping interactif pour le suivi environnemental, les aires protégées, les mangroves, l'hydrologie et les feux de brousse dans la région Boeny à Madagascar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
